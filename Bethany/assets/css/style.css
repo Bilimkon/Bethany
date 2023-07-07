@@ -10,7 +10,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: 'Manrope', sans-serif;
   color: #444444;
 }
 
@@ -30,7 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Manrope', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -108,7 +109,8 @@ h6 {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Manrope', sans-serif;
 }
 
 #header .logo h1 a,
@@ -188,7 +190,8 @@ h6 {
   font-size: 13px;
   font-weight: 500;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Manrope', sans-serif;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -430,13 +433,15 @@ h6 {
   margin-bottom: 40px;
   font-size: 15px;
   font-weight: 500;
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: 'Manrope', sans-serif;
   letter-spacing: 0.5px;
   text-transform: uppercase;
 }
 
 #hero .btn-get-started {
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Manrope', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 14px;
@@ -598,7 +603,8 @@ section {
 .counts .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Raleway", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: 'Manrope', sans-serif;
   font-size: 15px;
   font-weight: 500;
 }
@@ -694,7 +700,8 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Raleway", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: 'Manrope', sans-serif;
   text-transform: uppercase;
   font-weight: 600;
   font-size: 15px;
@@ -798,7 +805,8 @@ section {
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
   border-radius: 50px;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family: 'Manrope', sans-serif;
 }
 
 .portfolio #portfolio-flters li:hover,
@@ -1348,7 +1356,8 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: 'Manrope', sans-serif;
   color: #777777;
 }
 
